@@ -52,7 +52,7 @@ page2 = False
 logo_design_1 = ('''
   {0}  ____  __                    _____       __      _ __ 
    / __ \/ /_  ____  ____  ___ / ___/____  / /___  (_) /_
-  / /_/ / __ \/ __ \/ __ \/ _ \\__ \/ __ \ / / __ \/ / __/
+  / /_/ / __ \/ __ \/ __ \/ _ \\__ \/ __ \ / / __ \/ / __/ {1}Coded by Anas Bougnar{0}
 {1} / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_  
 /_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/  
                                  /_/''').format(Fore.GREEN, Fore.WHITE, Fore.RED)
@@ -70,7 +70,7 @@ logo_design_2 = Fore.GREEN + '''
 
 logo_design_pre = '''
 {0}╔═╗{1}┬ ┬┌─┐┌┐┌┌─┐{0}╔═╗{1}┌─┐┬  ┌─┐┬┌┬┐
-{0}╠═╝{1}├─┤│ ││││├┤ {0}╚═╗{1}├─┘│  │ ││ │ 
+{0}╠═╝{1}├─┤│ ││││├┤ {0}╚═╗{1}├─┘│  │ ││ │    {1}Coded by Anas Bougnar{0}
 {0}╩  {1}┴ ┴└─┘┘└┘└─┘{0}╚═╝{1}┴  ┴─┘└─┘┴ ┴ '''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
 logo_design_3 = logo_design_pre.decode("utf-8")
 
@@ -82,7 +82,7 @@ logo_design_4 = '''
       hMMMMMMMMMMMMMMMMMMh
   \033[92m..  yyyyyyyyyyyyyyyyyyyy  ..              \033[0m Expoit time :) \033[92m
 \033[92m.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.            \033[0m Thanks for downloading!\033[92m
-\033[92m:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+\033[92m:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:            \033[0m insta : @anes_bougnar\033[92m
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
